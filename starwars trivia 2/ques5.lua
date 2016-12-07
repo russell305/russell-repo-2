@@ -10,22 +10,7 @@ local hintNumber
  local myText
  local myTextHints
 
-----------------------------------------------------------------------------------
--- 
---      NOTE:
---      
---      Code outside of listener functions (below) will only be executed once,
---      unless storyboard.removeScene() is called.
--- 
----------------------------------------------------------------------------------
-
-
--- local forward references should go here --
-
-
----------------------------------------------------------------------------------
--- BEGINNING OF YOUR IMPLEMENTATION
----------------------------------------------------------------------------------
+--new notes
 
 -- Called when the scene's view does not exist:
 function scene:createScene( event )
