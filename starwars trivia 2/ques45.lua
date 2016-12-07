@@ -10,7 +10,7 @@ local hintNumber
  local myText
  local myTextHints
 
-
+--hello there
 
 -- Called when the scene's view does not exist:
 function scene:createScene( event )
